@@ -1,2 +1,2 @@
-# ulyssesNER-Br
+# UlyssesNER-Br
 Named Entity Recognition resources
