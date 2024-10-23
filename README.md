@@ -6,6 +6,7 @@ Spreadsheet containing the results of NER models trained with the datasets: http
 ---
 
 ## Related papers:
+### UlyssesNER-Br (PL-corpus and ST-corpus)
 
 - [UlyssesNER-Br: A Corpus of Brazilian Legislative Documents for Named Entity Recognition](https://doi.org/10.1007/978-3-030-98305-5_1)
 ```bibtex
@@ -47,7 +48,7 @@ abstract="The amount of legislative documents produced within the past decade ha
 isbn="978-3-030-98305-5"
 }
 ```
-
+### UlyssesNER-Br (C-corpus)
 - [Expanding UlyssesNER-Br Named Entity Recognition Corpus with Informal User-Generated Text](https://link.springer.com/chapter/10.1007/978-3-031-16474-3_62)
 ```bibtex
 @InProceedings{10.1007/978-3-031-16474-3_62,
@@ -92,7 +93,7 @@ isbn="978-3-031-16474-3"
   url={http://repositorio.bc.ufg.br/tede/handle/tede/12862}
 }
 ```
-
+### UlyssesNER-Br (PL-corpus v2)
 The updated version of the PL-corpus was used by Rafael O. Nunes, Dennis G. Balreira, Andre S. Spritzer and Carla Maria D.S. Freitas, all by Federal University of Rio Grande do Sul (UFRGS).
 The full works is available in:
 - ["A Named Entity Recognition Approach for Portuguese Legislative Texts Using Self-Learning", PROPOR (2024)](https://aclanthology.org/2024.propor-1.30/)
