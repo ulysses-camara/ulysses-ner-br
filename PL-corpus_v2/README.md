@@ -50,7 +50,6 @@ isbn={978-989-758-692-7},
 issn={2184-4992},
 }
 ```
-
 ``` bibtex
 title = "Reconhecimento de Entidades Nomeadas e Vazamento de Dados em Textos Legislativos: Uma Reavaliação da Literatura",
   author = "Nunes, Rafael Oleques  and
