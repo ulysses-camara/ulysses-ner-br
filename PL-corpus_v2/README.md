@@ -51,7 +51,8 @@ issn={2184-4992},
 }
 ```
 ``` bibtex
-title = "Reconhecimento de Entidades Nomeadas e Vazamento de Dados em Textos Legislativos: Uma Reavaliação da Literatura",
+@inproceedings{nunes2024ulyssesner,
+  title = "Reconhecimento de Entidades Nomeadas e Vazamento de Dados em Textos Legislativos: Uma Reavaliação da Literatura",
   author = "Nunes, Rafael Oleques  and
       Balreira, Dennis Giovani  and
       Spritzer, Andre Suslik  and
@@ -60,5 +61,5 @@ title = "Reconhecimento de Entidades Nomeadas e Vazamento de Dados em Textos Leg
   pages = {},
   title = {Named Entity Recognition and Data Leakage in Legislative Texts: A Literature Reassessment},
   url={http://dx.doi.org/10.13140/RG.2.2.25781.69602},
-```
+}```
 
