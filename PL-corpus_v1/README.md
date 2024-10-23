@@ -1,5 +1,5 @@
 # Corpora
-## PL_Corpus
+## PL_Corpus_v1
 The file ```PL_Corpus_PDFs.zip``` contain the original PDF files used, obtained from https://www.camara.leg.br/buscaProposicoesWeb/
 
 The file ```PL_Corpus_byCategories_conll.zip``` and ```PL_Corpus_byTypes_conll.zip``` contain the files annotated using the Conll2002 pattern, organized by semantic categories and by entity types, respectively.
