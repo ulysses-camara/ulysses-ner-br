@@ -83,3 +83,71 @@ abstract="Named Entity Recognition (NER) is a challenging Natural Language Proce
 isbn="978-3-031-16474-3"
 }
 ```
+``` bibtex
+@mastersthesis{costa2023reconhecimento,
+  title={Reconhecimento de entidades nomeadas em textos informais no dom{\'\i}nio legislativo},
+  author={Costa, Rosimeire Pereira da, and and da Silva, N{\'a}dia F. F.},
+  year={2023},
+  school={Master’s thesis, Universidade Federal de Goi{\'a}s},
+  url={http://repositorio.bc.ufg.br/tede/handle/tede/12862}
+}
+```
+
+The updated version of the PL-corpus was used by Rafael O. Nunes, Dennis G. Balreira, Andre S. Spritzer and Carla Maria D.S. Freitas, all by Federal University of Rio Grande do Sul (UFRGS).
+The full works is available in:
+- ["A Named Entity Recognition Approach for Portuguese Legislative Texts Using Self-Learning", PROPOR (2024)](https://aclanthology.org/2024.propor-1.30/)
+- ["Out of Sesame Street: A Study of Portuguese Legal Named Entity Recognition Through In-Context Learning", ICEIS (2024)](https://doi.org/10.5220/0012624700003690)
+- ["Named Entity Recognition and Data Leakage in Legislative Texts: A Literature Reassessment" Linguamática (2024), *Under review - Preprint](http://dx.doi.org/10.13140/RG.2.2.25781.69602)
+
+We thank the UFRGS collaborators for their kindness and collaboration. 
+This interaction is essential for to continue improving the quality and accuracy of our research, and Science as a whole. We remain available for future joint research efforts.
+
+``` bibtex
+@inproceedings{nunes-etal-2024-named,
+    title = "A Named Entity Recognition Approach for {P}ortuguese Legislative Texts Using Self-Learning",
+    author = "Nunes, Rafael Oleques  and
+      Balreira, Dennis Giovani  and
+      Spritzer, Andr{\'e} Suslik  and
+      Freitas, Carla Maria Dal Sasso",
+    editor = "Gamallo, Pablo  and
+      Claro, Daniela  and
+      Teixeira, Ant{\'o}nio  and
+      Real, Livy  and
+      Garcia, Marcos  and
+      Oliveira, Hugo Gon{\c{c}}alo  and
+      Amaro, Raquel",
+    booktitle = "Proceedings of the 16th International Conference on Computational Processing of Portuguese - Vol. 1",
+    month = mar,
+    year = "2024",
+    address = "Santiago de Compostela, Galicia/Spain",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.propor-1.30",
+    pages = "290--300",
+}
+```
+``` bibtex
+@conference{iceis24,
+author={Rafael {Oleques Nunes}. and Andre Spritzer. and Carla {Dal Sasso Freitas}. and Dennis Balreira.},
+title={Out of Sesame Street: A Study of Portuguese Legal Named Entity Recognition Through In-Context Learning},
+booktitle={Proceedings of the 26th International Conference on Enterprise Information Systems - Volume 1: ICEIS},
+year={2024},
+pages={477-489},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0012624700003690},
+isbn={978-989-758-692-7},
+issn={2184-4992},
+}
+```
+``` bibtex
+@inproceedings{nunes2024ulyssesner,
+  title = "Reconhecimento de Entidades Nomeadas e Vazamento de Dados em Textos Legislativos: Uma Reavaliação da Literatura",
+  author = "Nunes, Rafael Oleques  and
+      Balreira, Dennis Giovani  and
+      Spritzer, Andre Suslik  and
+      Freitas, Carla Maria Dal Sasso",
+  year = {2024},
+  pages = {},
+  title = {Named Entity Recognition and Data Leakage in Legislative Texts: A Literature Reassessment},
+  url={http://dx.doi.org/10.13140/RG.2.2.25781.69602},
+}```
