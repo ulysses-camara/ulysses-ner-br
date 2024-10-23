@@ -1,6 +1,6 @@
 # Corpora
 ## PL_Corpus_v2
-The updated version of thhe PL-corpus was used by Rafael O. Nunes, Dennis G. Balreira, Andre S. Spritzer and Carla Maria D.S. Freitas, all by Federal University of Rio Grande do Sul (UFRGS).
+The updated version of the PL-corpus was used by Rafael O. Nunes, Dennis G. Balreira, Andre S. Spritzer and Carla Maria D.S. Freitas, all by Federal University of Rio Grande do Sul (UFRGS).
 The full works is available in:
 - ["A Named Entity Recognition Approach for Portuguese Legislative Texts Using Self-Learning", PROPOR (2024)](https://aclanthology.org/2024.propor-1.30/)
 - ["Out of Sesame Street: A Study of Portuguese Legal Named Entity Recognition Through In-Context Learning", ICEIS (2024)](https://doi.org/10.5220/0012624700003690)
