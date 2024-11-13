@@ -50,7 +50,7 @@ isbn="978-3-030-98305-5"
 ```
 ### UlyssesNER-Br (C-corpus)
 - V1: [Expanding UlyssesNER-Br Named Entity Recognition Corpus with Informal User-Generated Text](https://link.springer.com/chapter/10.1007/978-3-031-16474-3_62)
-- V2: [Reconhecimento de entidades nomeadas em textos informais no domínio legislativo]([https://link.springer.com/chapter/10.1007/978-3-031-16474-3_62](http://repositorio.bc.ufg.br/tede/handle/tede/12862))
+- V2: [Reconhecimento de entidades nomeadas em textos informais no domínio legislativo](http://repositorio.bc.ufg.br/tede/handle/tede/12862)
 ```bibtex
 @InProceedings{10.1007/978-3-031-16474-3_62,
 author="Costa, Rosimeire
